@@ -1,4 +1,4 @@
-### Olá, Eu soi a Marina Tostes
+### Olá, Eu sou a Marina Toste
 - 🔭 Atualmente sou estudante.
 - 🌱 Estudando JavaScript, TypeScript, HTML, CSS 
 - 😄 Pronouns: ela/dela
