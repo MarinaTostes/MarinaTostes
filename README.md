@@ -1,6 +1,6 @@
-### Olá, Eu sou a Marina Toste
+### Olá, Eu sou a Marina Tostes.
 - 🔭 Atualmente sou estudante.
-- 🌱 Estudando JavaScript, TypeScript, HTML, CSS 
+- 🌱 Estudando JavaScript, TypeScript, HTML, CSS.
 - 😄 Pronouns: ela/dela
 - 📫 Contate-me no email: marinatostes8@gmail.com
 - ⚡ site: marinatosttes.com
