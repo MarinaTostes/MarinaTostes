@@ -1,6 +1,6 @@
 ### Olá, Eu sou a Marina Tostes.
 - 🔭 Dev júnior -  Web|Front end
-- 🌱 Estudando JavaScript, TypeScript, HTML, CSS.
+- 🌱 Estudando JavaScript, React.Js, TypeScript, HTML, CSS.
 - 😄 Pronouns: ela/dela
 - 📫 Contate-me no email: marinatostes8@gmail.com
 
