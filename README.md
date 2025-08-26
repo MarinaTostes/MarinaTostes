@@ -2,7 +2,7 @@
 - 🔭 Dev júnior -  Web|Front end
 - 🌱 Estudando JavaScript, React.Js, TypeScript, HTML, CSS.
 - 😄 Pronouns: ela/dela
-- 📫 Contate-me no email: marinatostes8@gmail.com
+- 📫 Contate-me no email: marinaatostes@gmail.com
 
 <div align="center">
   <a href="https://github.com/MarinaTostes">
